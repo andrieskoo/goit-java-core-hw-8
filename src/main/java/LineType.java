@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum LineType {
+public enum LineType {
+    SOLID,
+    DOTTED,
+    DASHED
 }

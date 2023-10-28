@@ -1,4 +1,6 @@
-public interface GraphicObjectPainter {
+public interface EditorPrinter {
 
-    void drawGraphicObject(GraphicObject go);
+    void print(Editor editor);
+
+
 }
